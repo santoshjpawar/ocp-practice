@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi7/ubi:7.7
+FROM centos
 
 COPY *.sh /work/
 
